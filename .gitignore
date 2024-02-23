@@ -1,0 +1,10 @@
+# Project exclude paths
+/eager-fetching/target/
+/hibernate-introduction/target/
+/hql/target/
+/lazy-fetching/target/
+/many-to-many/target/
+/many-to-one/target/
+/one-to-many/target/
+/one-to-one/target/
+/sql/target/

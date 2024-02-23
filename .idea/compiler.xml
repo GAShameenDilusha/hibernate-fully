@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="many-to-many" />
+        <module name="hql" />
+        <module name="many-to-one" />
+        <module name="eager-fetching" />
+        <module name="lazy-fetching" />
+        <module name="one-to-one" />
+        <module name="hibernate-introduction" />
+        <module name="hibernate-lifecycle" />
+        <module name="one-to-many" />
+        <module name="sql" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eager1-fetching" target="11" />
+      <module name="lazy1-Fetching" target="11" />
+      <module name="Lazy1-fetching (1) (lk.ijse)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
